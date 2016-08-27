@@ -1,0 +1,14 @@
+{
+  "extends": ["airbnb-base"],
+  "parserOptions": {
+    "ecmaFeatures": {
+      "impliedStrict": true
+    }
+  },
+  "rules" : {
+    "curly": 0,
+    "new-parens": 0,
+    "semi": ["error", "never"],
+    "import/prefer-default-export": 0
+  }
+}

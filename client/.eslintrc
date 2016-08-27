@@ -1,0 +1,18 @@
+{
+  "extends": ["plugin:react/recommended"],
+  "plugins": ["react"],
+  "parserOptions": {
+    "ecmaFeatures": {
+      "experimentalObjectRestSpread": true,
+      "jsx": true
+    }
+  },
+  "env": {
+    "browser": true
+  },
+  "rules" : {
+    "react/jsx-filename-extension": 0,
+    "react/jsx-first-prop-new-line": 0,
+    "react/prop-types": 0
+  }
+}

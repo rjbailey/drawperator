@@ -1,0 +1,10 @@
+{
+  "name": "drawperator",
+  "description": "Operator-like chain-drawing party game!",
+  "repository": "https://github.com/rjbailey/drawperator",
+  "success_url": "/",
+  "keywords": ["node", "ws"],
+  "website": "https://github.com/rjbailey/drawperator",
+  "env": {
+  }
+}
